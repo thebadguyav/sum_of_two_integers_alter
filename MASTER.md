@@ -2,7 +2,6 @@
 int main()
 { 
     int a,b; //two integer type variables whose sum is to be performed 
-    int sum=0; //the variable for storing the sum of the two integers 
     printf("Enter the first number:"); 
     scanf("%d",&a); 
     printf("Enter the second number:"); 
